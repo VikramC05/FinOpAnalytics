@@ -100,7 +100,7 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/financial-operations-analytics.git
+git clone https://github.com/yourusername/FinOpAnalytics.git
 cd financial-operations-analytics
 ```
 
